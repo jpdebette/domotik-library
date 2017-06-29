@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>fr.jp.perso.domotik</groupId>
-    <artifactId>domotik-web</artifactId>
+    <artifactId>domotik-library</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>Domotik Web</name>
+    <name>Domotik Library</name>
 
 </project>
