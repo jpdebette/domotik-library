@@ -7,6 +7,10 @@ public class CommandDto {
     private String name;
     private List<CommandParameterDto> commandParameters;
 
+    public CommandDto() {
+
+    }
+
     public CommandDto(String name) {
         this.name = name;
     }
